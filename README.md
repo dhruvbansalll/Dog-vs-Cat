@@ -1,6 +1,5 @@
 # Dogs vs Cats Image Classification - CNN
 
-
 **Dataset Information**
 
 The training archive contains 25,000 images of dogs and cats. Train your algorithm on these files and predict the labels
